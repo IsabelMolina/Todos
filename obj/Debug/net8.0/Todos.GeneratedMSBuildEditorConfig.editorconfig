@@ -1,0 +1,51 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Todos
+build_property.RootNamespace = Todos
+build_property.ProjectDir = C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\3\Todos\Todos\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\Software\Universidad\TdeA\ConstruccionSoftware\4\Entregables\3\Todos\Todos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/Components/ItemCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJdGVtQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/Pages/Item.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/Pages/ItemDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbURldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-viaem4x3pd
+
+[C:/Users/Usuario/Documents/Software/Universidad/TdeA/ConstruccionSoftware/4/Entregables/3/Todos/Todos/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-njnh305ocb

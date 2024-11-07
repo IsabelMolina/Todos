@@ -1,0 +1,15 @@
+<!-- Detalle de una TODO -->
+@page "/detalle/{id:int}"
+@using Todos.Dtos
+@using Todos.Components
+
+@inject HttpClient httpClient
+
+<h1>Detalle del todo @id</h1>
+
+<ItemCard id=@id />
+
+@code {
+    [Parameter]
+    public int id {set; get;}
+}
